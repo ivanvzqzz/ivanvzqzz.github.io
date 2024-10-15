@@ -1,0 +1,31 @@
+title: Resume
+profile_img: /assets/img/profile.webp
+icon_img: /assets/img/icon.webp
+
+name: "Iván Fernando Vázquez López"
+job: "Data Analyst"
+
+phone_number: 662 000 0000
+address: Hermosillo, Sonora
+email: ivanf.vazquez10@gmail.com
+linkedin_username: ivanfvazquez
+github_username: ivanvzqzz
+instagram_username: ivanvzq
+# twitter_username: twitter
+# facebook_username: facebook
+# youtube_username: youtube
+# blog_url: homepage-url
+
+# If your repo name follows the format "<user-name>.github.io", then leave the below blank.
+# Otherwise, set its value as "/<repo-name>". ex) baseurl: /resume
+baseurl:
+
+exclude:
+  - _posts/
+  - resources/
+  - vendor/
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
