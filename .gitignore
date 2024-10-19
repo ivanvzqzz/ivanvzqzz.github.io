@@ -7,5 +7,5 @@ vendor
 Gemfile.lock
 *.gem
 
-# Ignore git backup files
+# Ignore Vim backup files
 *~
