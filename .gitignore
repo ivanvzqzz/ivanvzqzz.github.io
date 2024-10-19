@@ -6,3 +6,6 @@ _site
 vendor
 Gemfile.lock
 *.gem
+
+# Ignore git backup files
+*~
